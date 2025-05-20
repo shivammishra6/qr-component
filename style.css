@@ -30,7 +30,8 @@ main {
 }
 
 img{
-    width: 100%;
+    width: 288px;
+    height: 288px;
     border-radius: 10px;
 }
 
